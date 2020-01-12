@@ -1,0 +1,27 @@
+server:
+  port: 8001
+
+
+eureka:
+  instance:
+    # 服务注册中心实例的主机名
+    hostname: 127.0.0.1
+
+  server:
+    # 详解：https://www.cnblogs.com/breath-taking/articles/7940364.html
+    # 定义 renews 和 renews threshold 的比值
+    renewalPercentThreshold: 0.49
+
+  client:
+    # 是否向服务注册中心注册自己
+    register-with-eureka: false
+    # 是否检索服务
+    fetch-registry: false
+    # 服务注册中心的配置内容，指定服务注册中心的位置
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+
+
+
+
+
