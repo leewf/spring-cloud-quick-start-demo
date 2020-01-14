@@ -6,7 +6,7 @@
 > Spring Cloud 	Hoxton.RELEASE
 
 [GitHub地址](https://github.com/leewf/spring-cloud-quick-start-demo)
-[原文地址][http://leewf.xyz/Java/2020/01/SpringCloud-actual-0.html]
+[原文地址](http://leewf.xyz/Java/2020/01/SpringCloud-actual-0.html)
 
 ## 基础骨架构建
 
