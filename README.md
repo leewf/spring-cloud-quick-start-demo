@@ -1,9 +1,15 @@
 # SpringCloud 实战篇-入门项目构建
 
+
+
+[TOC]
+
+
+
 构建环境
-> Java 8 
-> Spring Boot  	 2.2.2.RELEASE
-> Spring Cloud 	Hoxton.RELEASE
+> Java 8                                                               
+> Spring Boot  	 2.2.2.RELEASE                      
+> Spring Cloud 	Hoxton.RELEASE                     
 
 [GitHub地址](https://github.com/leewf/spring-cloud-quick-start-demo)
 [原文地址](http://leewf.xyz/Java/2020/01/SpringCloud-actual-0.html)
@@ -415,7 +421,7 @@ public class ModuleAApplication {
 
 ### 测试运行
 
-**测试链接：**http://127.0.0.1:8001/
+测试链接：http://127.0.0.1:8001/
 
 
 
