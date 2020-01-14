@@ -1,4 +1,4 @@
-# SpringCloud 实战篇-入门项目构建
+# SpringCloud 实战篇-入门项目(一) Eureka 服务治理
 
 
 
@@ -12,7 +12,7 @@
 > Spring Cloud 	Hoxton.RELEASE                     
 
 [GitHub地址](https://github.com/leewf/spring-cloud-quick-start-demo)
-[原文地址](http://leewf.xyz/Java/2020/01/SpringCloud-actual-0.html)
+[原文地址](http://leewf.xyz/Java/2020/01/SpringCloud-actual-1-Eureka.html)
 
 ## 基础骨架构建
 
